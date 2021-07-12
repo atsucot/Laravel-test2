@@ -1,0 +1,14 @@
+
+Laravel入門
+問題①
+
+①php
+➁Model
+③View
+④Controller
+⑤ルーティング
+⑥GETメソッド
+⑦POSTメソッド
+⑧PUTメソッド
+⑨コントローラー？
+⑩Blade
